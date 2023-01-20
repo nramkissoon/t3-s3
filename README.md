@@ -1,6 +1,9 @@
-# Create T3 App
+# Create T3 App + S3 Presigned URLs
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+
+This app shows how to create presigned URLs and use them to upload files directly to an S3 bucket.
+[This blog post](https://blog.nickramkissoon.com/posts/t3-s3-presigned-urls) walks through the implementation details.
 
 ## What's next? How do I make an app with this?
 
